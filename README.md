@@ -1,6 +1,6 @@
 # 🧠 GPT Tokenizer - Byte Pair Encoding from Scratch
 
-Welcome to **GP Tokenizer** — a simple and educational Byte Pair Encoding (BPE) tokenizer built entirely from scratch using PyTorch and Python. This tokenizer demonstrates how subword tokenization (as used in GPT models) works under the hood.
+Welcome to **GPT Tokenizer** — a simple and educational Byte Pair Encoding (BPE) tokenizer built entirely from scratch using PyTorch and Python. This tokenizer demonstrates how subword tokenization (as used in GPT models) works under the hood.
 
 ---
 
